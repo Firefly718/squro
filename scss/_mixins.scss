@@ -1,0 +1,8 @@
+@mixin wrapper {
+    max-width: 960px; // convert to %
+    outline: 2px dashed orangered;
+    margin: 0 auto;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
